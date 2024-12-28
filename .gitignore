@@ -1,0 +1,16 @@
+# Ignore compiled binaries
+hello
+a.out
+
+# Ignore object files
+*.o
+
+# Ignore editor/IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
